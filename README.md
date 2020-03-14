@@ -2,11 +2,11 @@
 FMCW mmWave Radar -- people counting: simulation & algorithm
 
 # This project is not funed by any organization. Developed for study and fun.
-
+  
 -----------------------------------------------------  
   Author: Lin Junyang   
   Email : liynjy@163.com  
-  WeChat: liynjy
+  WeChat: liynjy    
   Date  : 2020-3-14    
   All Rights Reserved.  
 -----------------------------------------------------
